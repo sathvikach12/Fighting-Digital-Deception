@@ -1,0 +1,1 @@
+<%@ include file="_layout.jspf" %><div class="empty-state"><h1 class="h3">This request could not be completed</h1><p>It may require an approved administrator account, or the page may not exist.</p><a class="btn btn-primary" href="${ctx}/dashboard">Return to dashboard</a></div><%@ include file="_footer.jspf" %>

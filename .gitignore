@@ -1,0 +1,31 @@
+target/
+.env
+.idea/
+.vscode/
+*.iml
+*.log
+*.class
+Thumbs.db
+Desktop.ini
+# Maven build files
+target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
