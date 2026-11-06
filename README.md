@@ -1,6 +1,6 @@
-# TruthChain News
+# Fighting Digital Deception
 
-TruthChain is a Java 17 MVC web application for publishing and searching sample news, moderator review, approval-based accounts, and tamper-evident content history. It adapts the report's administration, user authorization, category management, quantization date, keyword filtering, keyword search history, and news ranking features to a small local portfolio application.
+Fighting Digital Deception is a Java 17 MVC web application for publishing and searching sample news, moderator review, approval-based accounts, and tamper-evident content history. It adapts the report's administration, user authorization, category management, quantization date, keyword filtering, keyword search history, and news ranking features to a small local portfolio application.
 
 > **Integrity model:** this is a centralized hash-chain demonstration stored in MySQL. It is not a decentralized blockchain, does not use consensus or a peer-to-peer network, and cannot establish whether a story is true. SHA-256 confirms that content matches a recorded fingerprint; it does not prove the source or factual accuracy. Keyword rules only request human review.
 
